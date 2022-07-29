@@ -1,0 +1,23 @@
+{
+  "name": "10-oop-challenge-teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "Team Profile Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ballardcryan/10-OOP-Challenge-TeamProfileGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ballardcryan/10-OOP-Challenge-TeamProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/ballardcryan/10-OOP-Challenge-TeamProfileGenerator#readme",
+  "dependencies": {
+    "inquirer": "^9.0.2"
+  }
+}
